@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"title": "YYsuni",
+		"title": "gBlob",
 		"description": "sungh 的个人博客，记录前端开发、探索、笔记。",
 		"username": "sungh"
 	},
@@ -32,7 +32,7 @@
 			"url": "/images/art/a46372ff45bc5524.jpg"
 		}
 	],
-	"currentArtImageId": "a46372ff45bc5524",
+	"currentArtImageId": "cat",
 	"backgroundImages": [
 		{
 			"id": "",
@@ -54,6 +54,13 @@
 			"value": "yysuni1001@gmail.com",
 			"label": "",
 			"order": 1
+		},
+		{
+			"id": "button-1775119451460",
+			"type": "link",
+			"value": "",
+			"label": "Unknow",
+			"order": 3
 		}
 	],
 	"clockShowSeconds": false,
