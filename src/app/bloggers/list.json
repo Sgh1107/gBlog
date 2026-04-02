@@ -91,13 +91,6 @@
 		"status": "disconnected"
 	},
 	{
-		"name": "BlogFinder",
-		"url": "https://bf.zzxworld.com/",
-		"avatar": "https://bf.zzxworld.com/images/favicon.png",
-		"description": "一个 blog 收集网站，可以查阅有哪些 blog，也可以直接看最近谁更新了什么",
-		"stars": 3
-	},
-	{
 		"name": "Tonsky",
 		"url": "https://tonsky.me/",
 		"avatar": "https://avatars.githubusercontent.com/u/285292?v=4",
@@ -143,33 +136,12 @@
 		"status": "disconnected"
 	},
 	{
-		"name": "Niracler 的博物志",
-		"url": "https://niracler.com/",
-		"avatar": "https://niracler.com/favicon.svg",
-		"description": "小透明，偶尔更新一篇blog。但是网站风格还是有特点的，可作为设计 blog 时的参考。",
-		"stars": 2
-	},
-	{
 		"name": "講評世界",
 		"url": "https://blog.moeyua.com/",
 		"avatar": "https://avatars.githubusercontent.com/u/45156493?v=4",
 		"description": "小透明，失踪人口。但 blog 网站样式有种字体的美，不知道怎么说。好像是影视飓风成员。",
 		"stars": 2,
 		"status": "disconnected"
-	},
-	{
-		"name": "阿猫的博客",
-		"url": "https://ameow.xyz/",
-		"avatar": "https://ameow.xyz/upload/favicon.png",
-		"description": "可爱的网站，一直在更新他的猫鱼周刊。",
-		"stars": 3
-	},
-	{
-		"name": "pseudoyu",
-		"url": "https://www.pseudoyu.com/",
-		"avatar": "https://www.pseudoyu.com/avatar.webp",
-		"description": "区块链开发者，在 Monad 区块链倒腾了一段时间。网站长得跟 Anthony 一模一样。嘴上一直念叨着他的学姐老婆。应该也挺厉害的。",
-		"stars": 3
 	},
 	{
 		"name": "季节记忆",
