@@ -1,7 +1,7 @@
 {
 	"meta": {
-		"title": "YYsuni",
-		"description": "YYsuni 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
+		"title": "gBlob",
+		"description": "sungh 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
 		"username": "sungh"
 	},
 	"theme": {
@@ -44,7 +44,7 @@
 		{
 			"id": "github",
 			"type": "github",
-			"value": "https://github.com/yysuni",
+			"value": "https://github.com/Sgh1107",
 			"label": "Github",
 			"order": 3
 		},
@@ -63,7 +63,7 @@
 			"order": 1
 		}
 	],
-	"clockShowSeconds": false,
+	"clockShowSeconds": true,
 	"summaryInContent": false,
 	"isCachePem": false,
 	"hideEditButton": false,
